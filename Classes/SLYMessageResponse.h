@@ -14,8 +14,6 @@
 
 
 +(id)responseWithReponseObjc:(id)responseObjc;
-
-+(id)responseWithReponseDic:(NSDictionary *)responseDic;
 -(instancetype)initWithReponseDic:(NSDictionary *)responseDic;
 
 @end

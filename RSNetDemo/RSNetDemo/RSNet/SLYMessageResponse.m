@@ -39,7 +39,7 @@
 }
 
 
-- (id)initWithReponseData:(NSData*)responseData {
+- (id)initWithReponseData:(NSData*)responseData{
     
     if ((self = [super init])) {
         
