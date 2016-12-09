@@ -7,7 +7,7 @@
 //
 
 #import "SLYNetRequestManage.h"
-#import "AFNetworking.h"
+#import <AFNetworking/AFNetworking.h>
 #import "SLYMessageResponse.h"
 
 
