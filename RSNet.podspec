@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "RSNetSpec"
+  s.name         = "RSNet"
   s.version      = "0.0.6"
   s.summary      = "cjzkwNet"
 
